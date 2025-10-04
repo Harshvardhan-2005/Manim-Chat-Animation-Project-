@@ -23,7 +23,7 @@ Just type what you want (e.g., "Show me a Lorenz attractor") and get a generated
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation Guide
 
 ```bash
 git clone https://github.com/your-username/manim-chat-env.git
